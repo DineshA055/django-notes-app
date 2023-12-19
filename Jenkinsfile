@@ -27,7 +27,7 @@ pipeline {
         stage("Deploy"){
             steps {
                 echo "Deploying the container"
-                sh "docker run -d -p 8000:8000 docker_hub_user_name/note-app:latest"
+                sh "docker run -d -p 8000:8000 dinesh444/note-app:latest"
                 
             }
         }
