@@ -4,6 +4,10 @@
                           JENKINS-DECLARATIVE-CICD-PIPELINE 🚡
 
 
+
+
+![Uploading image.png…]()
+
 1. Pre-request
      package has to up to date 
      Installed JRE-11 java for jenkins runtime
