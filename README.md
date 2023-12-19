@@ -6,7 +6,13 @@
 
 
 
-![Uploading image.png…]()
+
+
+
+
+![image](https://github.com/DineshA055/django-notes-app/assets/101075223/4283806c-5614-42a2-8635-a6adf44fa86e)
+
+
 
 1. Pre-request
      package has to up to date 
